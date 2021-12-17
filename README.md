@@ -1,3 +1,8 @@
+> This project is no longer maintained. Please take a look at the following projects:
+>
+> - [https://github.com/noi-techpark/odh-broker-mqtt](https://github.com/noi-techpark/odh-broker-mqtt)
+> - [https://github.com/noi-techpark/odh-datacollector-flightdata](https://github.com/noi-techpark/odh-datacollector-flightdata)
+
 # Flightdata
 
 This project contains sources and tools to record flight data via [MQTT](https://mqtt.org/) and to store it in a [PostgreSQL](https://www.postgresql.org/) database.
@@ -214,4 +219,4 @@ The code in this project is licensed under the MIT license. See the LICENSE file
 
 ### Authors
 
-- **Christian Gapp** - *Initial work* - [gappc](https://github.com/gappc)
+- **Christian Gapp** - _Initial work_ - [gappc](https://github.com/gappc)
